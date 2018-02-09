@@ -10,7 +10,9 @@ The packages are not the normals crates.
 
 +***INSTALL:***
 
-1.Drop server_crates2.sqf and server_crates3.sqf into dayz_server.pbo\modules\
+1.A.Drop server_crates2.sqf and server_crates3.sqf into dayz_server.pbo\modules\
+
+1.B.Drop crates folder into Mpmissions\yourinstance map\scripts\
 
 2.Open your init.sqf to add the events.
 
