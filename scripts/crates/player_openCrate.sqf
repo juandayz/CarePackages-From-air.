@@ -5,7 +5,7 @@ _crate = _this select 3;
 player removeAction s_player_opencrate;
 s_player_opencrate = -1;
 
-if (("ItemCrowbar" in items player)or ("MeleeCrowbar" in weapons player)) then {_hastool = true;};
+if (("ItemCrowbar" in items player) or ("MeleeCrowbar" in weapons player)) then {_hastool = true;};
 
 if !(_hastool) exitwith {"To open this package you need a Crowbar." call dayz_rollingMessages;};
 _playerNear = {isPlayer _x} count (([player] call FNC_GetPos) nearEntities ["CAManBase",5]) > 1;
