@@ -1,5 +1,8 @@
 # CarePackages-From-air.
 
+PLEASE DONATE:https://github.com/juandayz/CarePackages-From-air./blob/master/DONATION.md
+
+
 Two Events who choose randomplayers to drop some carepackeges from air.
 
 Players Needs a crowbar to open the pakages.
